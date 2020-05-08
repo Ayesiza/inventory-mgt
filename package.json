@@ -1,0 +1,24 @@
+{
+  "name": "inventory-mgt",
+  "version": "1.0.0",
+  "description": "An inventory management application is a platform that shows inventory status of different categorized items/products in stock. For this project you are going to create an Inventory management API for an imaginary store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayesiza/inventory-mgt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayesiza/inventory-mgt/issues"
+  },
+  "homepage": "https://github.com/Ayesiza/inventory-mgt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.12"
+  }
+}
